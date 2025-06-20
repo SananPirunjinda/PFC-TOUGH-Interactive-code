@@ -17,7 +17,7 @@ Three core files and a folder are provided as follows:
 
 To reproduce the simulation, user can follow in the following steps:
 1. Put particles.p3dat, toughpfc_test1, darcy.py, and the files in "Other neccessary files" folder into the same folder
-2. Download the EXT module (EXT.exe) of TOUGH2, which can be downloaded from (https://tough.lbl.gov/licensing-download/free-software-download/), and place it in the same folder. User needs TOUGH2 EOS9 to proceed further from this step. If user has TOUGH2 available, copy it into the same folder.
+2. Download the EXT module (EXT.exe) of TOUGH2, which can be downloaded from (https://tough.lbl.gov/licensing-download/free-software-download/), and place it in the same folder. User needs TOUGH2 EOS9 to proceed further from this step. If user has TOUGH2 EOS9 available, copy it into the same folder.
 3. Open PFC3D 5.00.
 6. Within PFC3D 5.00, open darcy.py.
 7. Run the code in darcy.py until the desired mechanical time. The code will generate the particles and CFD elements, couple PFC and TOUGH, and record the washout behavior.
