@@ -1,2 +1,2 @@
 # PFC-TOUGH-Interactive-code
-This repository provide the PFC-TOUGH interactive code. 
+This repository provides the PFC-TOUGH interactive code. 
